@@ -27,3 +27,6 @@ Nanjing, China, 211198
 - Programming Language: **Python**; C++
 - Typesetting Language: **LaTeX**; **Markdown**, **reStructuredText**
 - Programming Framework: **PyTorch**; TensorFlow
+
+![暗色](https://raw.githubusercontent.com/LuYF-Lemon-love/LuYF-Lemon-love/output/github-contribution-grid-snake-dark.svg)
+![亮色](https://raw.githubusercontent.com/LuYF-Lemon-love/LuYF-Lemon-love/output/github-contribution-grid-snake.svg)
