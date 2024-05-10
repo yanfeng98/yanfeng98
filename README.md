@@ -28,5 +28,28 @@ Nanjing, China, 211198
 - Typesetting Language: **LaTeX**; **Markdown**, **reStructuredText**
 - Programming Framework: **PyTorch**; TensorFlow
 
-![暗色](https://raw.githubusercontent.com/LuYF-Lemon-love/LuYF-Lemon-love/output/github-contribution-grid-snake-dark.svg)
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=LuYF-Lemon-love&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=LuYF-Lemon-love&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuYF-Lemon-love&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=LuYF-Lemon-love&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 ![亮色](https://raw.githubusercontent.com/LuYF-Lemon-love/LuYF-Lemon-love/output/github-contribution-grid-snake.svg)
