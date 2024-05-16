@@ -23,7 +23,7 @@ Nanjing, China, 211198
 
 ## Skills
 
-- Natural Language: Chinese (Native)
+- Natural Language: Chinese (Native); English
 - Programming Language: **Python**; C++
 - Typesetting Language: **LaTeX**; **Markdown**, **reStructuredText**
 - Programming Framework: **PyTorch**; TensorFlow
