@@ -13,7 +13,7 @@ Nanjing, China, 211198
 
 ## Education
 
-- 2021.09-*Present* School of Science, China Pharmaceutical University, Master.
+- 2021.09-2024.06 School of Science, China Pharmaceutical University, Master.
 - 2017.09-2021.06 School of Science, China Pharmaceutical University, Bachelor of Management.
 
 ## Research Interests
