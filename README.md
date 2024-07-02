@@ -3,13 +3,7 @@
 
 # Yanfeng Lu
 
-### *Master's student*
-
-China Pharmaceutical University
-
-639, Longmian Avenue, Jiangnin Dist.
-
-Nanjing, China, 211198
+**Large Model Engineer**
 
 ## Education
 
