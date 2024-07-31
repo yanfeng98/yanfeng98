@@ -20,7 +20,7 @@
 - Natural Language: Chinese (Native); English
 - Programming Language: **Python**; C++
 - Typesetting Language: **LaTeX**; **Markdown**; **reStructuredText**
-- Programming Framework: **PyTorch**; **transformers**, TensorFlow
+- Programming Framework: **PyTorch**; **Transformers**, TensorFlow
 
 ---
 
