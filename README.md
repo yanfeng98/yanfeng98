@@ -34,4 +34,4 @@
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=yanfeng98&show_icons=true&theme=vision-friendly-dark">
 </p>
 
-![亮色](https://raw.githubusercontent.com/LuYF-Lemon-love/LuYF-Lemon-love/output/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/yanfeng98/yanfeng98/output/github-contribution-grid-snake.svg)
