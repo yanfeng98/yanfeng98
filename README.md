@@ -18,9 +18,9 @@
 ## Skills
 
 - Natural Language: Chinese (Native); English
-- Programming Language: **Python**; C++
+- Programming Language: **Python**; C++; Verilog
 - Typesetting Language: **LaTeX**; **Markdown**; **reStructuredText**
-- Programming Framework: **PyTorch**; **Transformers**, TensorFlow
+- Programming Framework: **PyTorch**; **Transformers**
 
 ---
 
